@@ -81,9 +81,17 @@ Interests:
 
 ## Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase, Claude Code, Antigravity" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase" />
 
-</div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Integration-0A66C2?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -91,9 +99,9 @@ Interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjeecky3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjeecky3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeecky3&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeecky3&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
 
 </div>
 
