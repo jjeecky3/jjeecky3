@@ -118,7 +118,7 @@ Interests:
 | Project | Description | Tech |
 |---|---|---|
 | 🤖 Pentest Application | Web application that performs automated security scanning and vulnerability assessment on target websites | Flask | Python | SQLite |
-| 📱 Clash Royale Stats App | Mobile application that analyzes player statistics using game APIs and AI feedback | Flutter, API |
+| 📱 Clash Royale Stats App | Mobile application that analyzes player statistics using game APIs and provides Stats & Tips to improve | Flutter, API |
 | 📊 Follower Inspector | Program that checks which Instagram followers do not follow back | Python |
 
 </div>
