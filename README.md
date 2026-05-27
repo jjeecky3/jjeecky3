@@ -129,7 +129,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jjeecky3&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjeecky3&theme=tokyonight" />
 
 </div>
 
@@ -149,7 +149,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>
 
 </div>
 
